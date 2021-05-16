@@ -478,4 +478,4 @@ function binarySearch(arr, val, start, end) {
   }
 }
 
-console.log(binarySearch(mergeSort(array), target1, start, end));
+// console.log(binarySearch(mergeSort(array), target1, start, end));
